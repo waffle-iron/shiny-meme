@@ -1,9 +1,14 @@
 # Team Project Journal
 
-SWEN 301, 2015
+##SWEN 301, 2015
 
-Team ID: 1
-Team Members: Ellie Coyle, Hannah Craighead, Divya Patel, Tana Tanoi, Marcel van Workum
+###Team ID: 1
+###Team Members: 
+ - Ellie Coyle
+ - Hannah Craighead
+ - Divya Patel
+ - Tana Tanoi
+ - Marcel van Workum
 
 On the basis of skills, interests and personalities you must assign the following roles to group members (note that one member can have more than one role)
 
@@ -30,7 +35,7 @@ Tasks Accomplished:
 
 | **Who** | **Task** | **Signature** |
 | --- | --- | --- |
-| Divya  |  Sign up for meeting with stakeholders  |  done! |
+| Divya  |  Sign up for meeting with stakeholders  |  dp 17/03 |
 |   |    |   |
 |   |    |   |
 |   |    |   |
@@ -39,14 +44,14 @@ Tasks Accomplished:
  From Date:         End Date:
 Tasks Allocated:
 
-| **Who** | **Task** | **Signature** |
+| **Who** | **Task** | **Signature and date** |
 | --- | --- | --- |
 |  Marcel |  Host rails/ruby tut  |   |
 | Ellie/Divya/Hannah  | Attend rails/ruby tut   |   |
 | Tana  | Set up slack channel   |   |
 | Hannah  | Set up google drive (add link to readme)   |   |
 |  ALL | Contribute to draft usecase diagram   |   |
-| Ellie | book 242a for weekly irl meetings|  |
+| Ellie | book 242a for weekly irl meetings |  |
 | ALL | Contribute to questions for statke holder|
 
 ##Notes:
@@ -56,5 +61,37 @@ Tasks Allocated:
 - RAD and Team Journal due April 15th 
 - Indivdual Submission due May 2nd
 
+
+**Issues:**
+
+# Meeting 2
+## Date: 
+- Location: 
+- Attendance:
+- Apologies: 
+
+From Date:          End Date:
+Tasks Accomplished:
+
+| **Who** | **Task** | **Signature** |
+| --- | --- | --- |
+| Ellie  |  book 242a for weekly irl meetings (31/3 & 7/4)  |  ec 17/03 |
+|   |    |   |
+|   |    |   |
+|   |    |   |
+|   |    |   |
+
+ From Date:         End Date:
+Tasks Allocated:
+
+| **Who** | **Task** | **Signature and date** |
+| --- | --- | --- |
+|   |    |   |
+|   |    |   |
+|   |    |   |
+|   |    |   |
+
+
+**Notes:**
 
 **Issues:**
