@@ -10,19 +10,12 @@
  - Tana Tanoi
  - Marcel van Workum
 
-On the basis of skills, interests and personalities you must assign the following roles to group members (note that one member can have more than one role)
-
-Project leader:
-
-Chief Requirement analyst:
-
-Chief Designer:
-
-Chief Programmer:
-
-Chief Tester:
-
-Note:  all the above project roles must be manned by some person. Although you may have specific technical roles, everyone is expected to be involved in the whole process of project development and contribute to the project ideas and decision making. You will be democratic, although in the case of dispute the project leader will have the final say.
+###Roles: 
+ - Project leader:
+ - Chief Requirement analyst:
+ - Chief Designer:
+ - Chief Programmer:
+ - Chief Tester:
 
 # Meeting 1
 ## Date: 17/03/16
@@ -30,7 +23,7 @@ Note:  all the above project roles must be manned by some person. Although you m
 - Attendance: All
 - Apologies: None
 
-From Date:          End Date:
+From Date: 17/03/16     End Date:
 Tasks Accomplished:
 
 | **Who** | **Task** | **Signature** |
@@ -60,7 +53,6 @@ Tasks Allocated:
 - Individual assignment1 due April 8th
 - RAD and Team Journal due April 15th 
 - Indivdual Submission due May 2nd
-
 
 **Issues:**
 
