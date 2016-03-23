@@ -23,21 +23,17 @@
 - Attendance: All
 - Apologies: None
 
-From Date: 17/03/16     End Date:
-Tasks Accomplished:
+From Date: 17/03/16     End Date: 17/03/16
+###Tasks Accomplished:
 
-| **Who** | **Task** | **Signature** |
+| **Who** | **Task** | **Signature and Date** |
 | --- | --- | --- |
 | Divya  |  Sign up for meeting with stakeholders  |  dp 17/03 |
-|   |    |   |
-|   |    |   |
-|   |    |   |
-|   |    |   |
 
- From Date:         End Date:
-Tasks Allocated:
+From Date: 17/03/16        End Date: 23/03/16
+###Tasks Allocated:
 
-| **Who** | **Task** | **Signature and date** |
+| **Who** | **Task** | **Due Date** |
 | --- | --- | --- |
 |  Marcel |  Host rails/ruby tut  |   |
 | Ellie/Divya/Hannah  | Attend rails/ruby tut   |   |
@@ -57,29 +53,112 @@ Tasks Allocated:
 **Issues:**
 
 # Meeting 2
-## Date: 
-- Location: 
-- Attendance:
-- Apologies: 
+## Date: 23/03/16
+- Location: CO242a
+- Attendance: Hannah, Marcel, Tana, Divya
+- Apologies: Ellie
 
-From Date:          End Date:
-Tasks Accomplished:
+From Date: 17/03/16         End Date: 23/03/16
+###Tasks Accomplished:
 
-| **Who** | **Task** | **Signature** |
+| **Who** | **Task** | **Signature and Date** |
 | --- | --- | --- |
 | Ellie  |  book 242a for weekly irl meetings (31/3 & 7/4)  |  ec 17/03 |
-|   |    |   |
-|   |    |   |
+| Marcel  | Hold ruby/rails tut   | m&t 23/03  |
+| Hannah  |  Set up shared google drive folder  | hc 18/03  |
+| Divya  |  Draft questions for stakeholder meeting  | dp 22/03  |
+| Tana  |  Set up slack channel for team communication | tt 18/03  |
+| Hannah & Divya | Attend Rails tut | h&d 23/03 |
+
+From Date: 23/03/16         End Date: 31/03/16
+###Tasks Allocated:
+
+| **Who** | **Task** | **Due Date** |
+| --- | --- | --- |
+| ALL  | Add to 'questions to ask client' document   | 31/03  |
+| ALL | Attend meeting with customer   | 31/03  |
 |   |    |   |
 |   |    |   |
 
- From Date:         End Date:
-Tasks Allocated:
 
-| **Who** | **Task** | **Signature and date** |
+**Notes:**
+- We have our meeting with the customer 31st March at 11am!!!
+
+**Issues:**
+
+# Meeting 3
+## Date: 
+- Location: 
+- Attendance: 
+- Apologies: 
+
+From Date:          End Date: 
+###Tasks Accomplished:
+
+| **Who** | **Task** | **Signature and Date** |
+| --- | --- | --- |
+|   |    |    |
+|   |    |    |
+
+From Date:         End Date: 
+###Tasks Allocated:
+
+| **Who** | **Task** | **Due Date** |
 | --- | --- | --- |
 |   |    |   |
 |   |    |   |
+
+
+**Notes:**
+
+**Issues:**
+
+# Meeting 4
+## Date: 
+- Location: 
+- Attendance: 
+- Apologies: 
+
+From Date:          End Date: 
+###Tasks Accomplished:
+
+| **Who** | **Task** | **Signature and Date** |
+| --- | --- | --- |
+|   |    |    |
+|   |    |    |
+
+From Date:         End Date: 
+###Tasks Allocated:
+
+| **Who** | **Task** | **Due Date** |
+| --- | --- | --- |
+|   |    |   |
+|   |    |   |
+
+
+**Notes:**
+
+**Issues:**
+
+# Meeting 5
+## Date: 
+- Location: 
+- Attendance: 
+- Apologies: 
+
+From Date:          End Date: 
+###Tasks Accomplished:
+
+| **Who** | **Task** | **Signature and Date** |
+| --- | --- | --- |
+|   |    |    |
+|   |    |    |
+
+From Date:         End Date: 
+###Tasks Allocated:
+
+| **Who** | **Task** | **Due Date** |
+| --- | --- | --- |
 |   |    |   |
 |   |    |   |
 
