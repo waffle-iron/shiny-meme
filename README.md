@@ -77,8 +77,6 @@ From Date: 23/03/16         End Date: 31/03/16
 | --- | --- | --- |
 | ALL  | Add to 'questions to ask client' document   | 31/03  |
 | ALL | Attend meeting with customer   | 31/03  |
-|   |    |   |
-|   |    |   |
 
 
 **Notes:**
@@ -87,29 +85,30 @@ From Date: 23/03/16         End Date: 31/03/16
 **Issues:**
 
 # Meeting 3
-## Date: 
-- Location: 
-- Attendance: 
-- Apologies: 
+## Date: 31/03/16
+- Location: CO246
+- Attendance: Marcel, Hannah, Divya, Tana
+- Apologies: Ellie
 
-From Date:          End Date: 
+From Date: 23/03/16        End Date: 31/03/16
 ###Tasks Accomplished:
 
 | **Who** | **Task** | **Signature and Date** |
 | --- | --- | --- |
-|   |    |    |
-|   |    |    |
+| ALL  | Add to 'questions to ask client' document   | all 31/03  |
+| ALL | Attend meeting with customer   | all 31/03  |
 
-From Date:         End Date: 
+From Date: 31/03/16         End Date: 7/03/16
 ###Tasks Allocated:
 
 | **Who** | **Task** | **Due Date** |
 | --- | --- | --- |
-|   |    |   |
-|   |    |   |
+|  ALL  | Use Case Diagram in RAD  | 7/03/16  |
 
 
 **Notes:**
+- RAD is due 15th April
+- Have decided to do Agile Process
 
 **Issues:**
 
