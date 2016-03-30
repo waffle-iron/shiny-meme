@@ -11,11 +11,11 @@
  - Marcel van Workum
 
 ###Roles: 
- - Project leader:
+ - Project leader: 
  - Chief Requirement analyst:
- - Chief Designer:
- - Chief Programmer:
- - Chief Tester:
+ - Chief Designer: 
+ - Chief Programmer: Marcel
+ - Chief Tester: Ellie
 
 # Meeting 1
 ## Date: 17/03/16
