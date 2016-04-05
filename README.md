@@ -35,15 +35,15 @@ From Date: 17/03/16        End Date: 23/03/16
 
 | **Who** | **Task** | **Due Date** |
 | --- | --- | --- |
-|  Marcel |  Host rails/ruby tut  |   |
-| Ellie/Divya/Hannah  | Attend rails/ruby tut   |   |
-| Tana  | Set up slack channel   |   |
-| Hannah  | Set up google drive (add link to readme)   |   |
-|  ALL | Contribute to draft usecase diagram   |   |
-| Ellie | book 242a for weekly irl meetings |  |
-| ALL | Contribute to questions for statke holder|
+|  Marcel |  Host rails/ruby tut  | 23/03 |
+| Ellie/Divya/Hannah  | Attend rails/ruby tut   | 23/03  |
+| Tana  | Set up slack channel   | 23/03 |
+| Hannah  | Set up google drive (add link to readme)   | 18/03  |
+|  ALL | Contribute to draft usecase diagram   | 23/03 |
+| Ellie | book 242a for weekly irl meetings | 23/03 |
+| ALL | Contribute to questions for stakeholder| 23/03 |
 
-##Notes:
+**Notes:**
 - Meeting with Stakeholder Thursday March 31st 11am - 11:30am
 - Vaildation of RAD with Stakeholder Thursday April 21st 11am - 11:30am
 - Individual assignment1 due April 8th
@@ -64,7 +64,7 @@ From Date: 17/03/16         End Date: 23/03/16
 | **Who** | **Task** | **Signature and Date** |
 | --- | --- | --- |
 | Ellie  |  book 242a for weekly irl meetings (31/3 & 7/4)  |  ec 17/03 |
-| Marcel  | Hold ruby/rails tut   | m&t 23/03  |
+| Marcel  | Hold ruby/rails tut   | mvw 23/03  |
 | Hannah  |  Set up shared google drive folder  | hc 18/03  |
 | Divya  |  Draft questions for stakeholder meeting  | dp 22/03  |
 | Tana  |  Set up slack channel for team communication | tt 18/03  |
@@ -87,8 +87,8 @@ From Date: 23/03/16         End Date: 31/03/16
 # Meeting 3
 ## Date: 31/03/16
 - Location: CO246
-- Attendance: Marcel, Hannah, Divya, Tana
-- Apologies: Ellie
+- Attendance: Marcel, Hannah, Divya, Tana, Ellie
+- Apologies: None
 
 From Date: 23/03/16        End Date: 31/03/16
 ###Tasks Accomplished:
@@ -103,7 +103,9 @@ From Date: 31/03/16         End Date: 7/03/16
 
 | **Who** | **Task** | **Due Date** |
 | --- | --- | --- |
-|  ALL  | Use Case Diagram in RAD  | 7/03/16  |
+|  ALL  | Use Case Diagram for RAD  | 7/03/16  |
+|  ALL  | Use Case Descriptions for RAD  | 11/03/16  |
+|  ALL  | Class Diagram for RAD  | 14/03/16  |
 
 
 **Notes:**
@@ -113,12 +115,12 @@ From Date: 31/03/16         End Date: 7/03/16
 **Issues:**
 
 # Meeting 4
-## Date: 
+## Date: 7/04/16
 - Location: 
 - Attendance: 
 - Apologies: 
 
-From Date:          End Date: 
+From Date: 31/03/16        End Date: 7/04/16
 ###Tasks Accomplished:
 
 | **Who** | **Task** | **Signature and Date** |
@@ -126,7 +128,7 @@ From Date:          End Date:
 |   |    |    |
 |   |    |    |
 
-From Date:         End Date: 
+From Date: 7/04/16        End Date: 14/04/16
 ###Tasks Allocated:
 
 | **Who** | **Task** | **Due Date** |
@@ -136,6 +138,7 @@ From Date:         End Date:
 
 
 **Notes:**
+- RAD is due on 15th April!!!
 
 **Issues:**
 
