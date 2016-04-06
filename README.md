@@ -116,16 +116,16 @@ From Date: 31/03/16         End Date: 7/03/16
 
 # Meeting 4
 ## Date: 7/04/16
-- Location: 
-- Attendance: 
-- Apologies: 
+- Location: CO242a
+- Attendance: All
+- Apologies: N/A
 
 From Date: 31/03/16        End Date: 7/04/16
-###Tasks Accomplished:
+###Tasks Accomplished: 
 
 | **Who** | **Task** | **Signature and Date** |
 | --- | --- | --- |
-|   |    |    |
+| Team  |  Created Use Case Diagram  |  all 7/04/16  |
 |   |    |    |
 
 From Date: 7/04/16        End Date: 14/04/16
@@ -133,8 +133,8 @@ From Date: 7/04/16        End Date: 14/04/16
 
 | **Who** | **Task** | **Due Date** |
 | --- | --- | --- |
-|   |    |   |
-|   |    |   |
+| Team  |  Complete Use Case Description for Use Cases in diagram  |  14/04/16 |
+|  Divya |  Share Use Case Description template with team |  8/04/16 |
 
 
 **Notes:**
